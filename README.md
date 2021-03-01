@@ -14,7 +14,7 @@ Partimos de una base de datos a entrenar (train.csv) y otra sin precios para pre
   - Entrenamiento: diferentes procesos de entrenamiento usando librerias especificas. 
   - Prediciones y validacion: obtencion de prediciones y exportacion para presentar resultados para competicion. 
 
-En el directorio note book se explica con detalle como se han obtenido los resultados presentes en el directorio data. 
+En el directorio [note book](https://github.com/yamadajc/Diamonds_kaggle_competition/tree/main/note%20book) se explica con detalle como se han obtenido los resultados presentes en el directorio data. 
 
 
 ![slide](images/slide.png)
