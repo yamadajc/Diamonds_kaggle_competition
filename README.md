@@ -1,4 +1,4 @@
-# Diamonds Predicting prices kaggle competition  
+# Diamonds Predicting Prices kaggle competition  
 
 ![portada](images/portada.jpg)
 
